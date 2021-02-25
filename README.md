@@ -38,12 +38,12 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |----|----------|
 |[Midterm]()|15%|
 |[Final]()|25%|
-|[Homework 1]()|10%||
-|[Homework 2]()|10%||
-|[Homework 3]()|10%||
-|[Homework 4]()|10%||
-|[Homework 5]()|10%||
-|[Homework 6]()|10%||
+|[Homework 1]()|10%|
+|[Homework 2]()|10%|
+|[Homework 3]()|10%|
+|[Homework 4]()|10%|
+|[Homework 5]()|10%|
+|[Homework 6]()|10%|
 
 ## Calendar
 
