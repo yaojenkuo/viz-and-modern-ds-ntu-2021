@@ -50,7 +50,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Date|Slides|Homework Due|
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Tableau]()||
+|2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)||
 |2021-03-12|[Creating a Dashboard with Tableau]()||
 |2021-03-19|[Getting Started with SQL]()|[Homework 1]()|
 |2021-03-26|[Basic Queries with SQL]()||
