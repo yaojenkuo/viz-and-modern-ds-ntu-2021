@@ -47,24 +47,24 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Calendar
 
-|Date|Slides|Homework Due|
-|----|------|------------|
+|Date|Slides|Course Video|Homework Due|
+|----|------|------------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)||
+|2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)|[Link](https://youtu.be/G6zy3NvjaiA)||
 |2021-03-12|[Creating a Dashboard with Tableau]()||
-|2021-03-19|[Getting Started with SQL]()|[Homework 1]()|
+|2021-03-19|[Getting Started with SQL]()||[Homework 1]()|
 |2021-03-26|[Basic Queries with SQL]()||
-|2021-04-02|No Class, Children's Day|[Homework 2]()|
+|2021-04-02|No Class, Children's Day||[Homework 2]()|
 |2021-04-09|[Advanced Queries with SQL]()||
-|2021-04-16|[Midterm]()|[Homework 3]()|
+|2021-04-16|[Midterm]()||[Homework 3]()|
 |2021-04-23|[Getting Started with Python]()||
-|2021-04-30|[Data Types and Structures in Python]()|[Homework 4]()|
+|2021-04-30|[Data Types and Structures in Python]()||[Homework 4]()|
 |2021-05-07|[Iterating Data with Python]()||
 |2021-05-14|[Being functional and object-oriented with Python]()||
-|2021-05-21|[Array Computing with NumPy]()|[Homework 5]()|
+|2021-05-21|[Array Computing with NumPy]()||[Homework 5]()|
 |2021-05-28|[DataFrame Wrangling with Pandas]()||
 |2021-06-04|[Visualizing Data with Matplotlib]()||
-|2021-06-11|No Class, Reading period|[Homework 6]()|
+|2021-06-11|No Class, Reading period||[Homework 6]()|
 |2021-06-18|[Final]()||
 |2021-06-25|No Class||
 
