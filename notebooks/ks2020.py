@@ -79,7 +79,7 @@ class KaggleSurvey2020:
                 freq_counts[k] = v
             summary = pd.Series(freq_counts).sort_values()
         return summary
-    def plot_summary(self, question_index):
+    def plot_summary(self, question_index, n_highlights):
         """
         This function plots the bar plot of a given question.
         Args:
@@ -97,9 +97,9 @@ class KaggleSurvey2020:
         else:
             y = response_ser.index
             width = response_ser.values
-        # Highlight top 3 with red
+        # Highlight top n_highlights with red
         colors = ['c' for _ in range(y.size)]
-        colors[-3:] = ['r', 'r', 'r']
+        colors[-n_highlights:] = list('r' * n_highlights)
         axes.barh(y, width, color=colors)
         axes.spines['right'].set_visible(False)
         axes.spines['top'].set_visible(False)
