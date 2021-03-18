@@ -47,12 +47,14 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Calendar
 
-|Date|Slides|Course Video|Homework Due|
-|----|------|------------|------------|
+Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUwUow1SVD_NZrM>
+
+|Date|Slides|Homework Due|
+|----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)|[Link](https://youtu.be/G6zy3NvjaiA)||
-|2021-03-12|[Creating a Dashboard with Tableau](slides/02-creating-a-dashboard-with-tableau.slides.html)|[Link](https://youtu.be/gai5-2uhB98)|
-|2021-03-19|[Getting Started with SQL]()||[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|
+|2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)||
+|2021-03-12|[Creating a Dashboard with Tableau](slides/02-creating-a-dashboard-with-tableau.slides.html)||
+|2021-03-19|[Getting Started with SQL](slides/03-getting-started-with-sql.slides.html)|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|
 |2021-03-26|[Basic Queries with SQL]()||
 |2021-04-02|No Class, Children's Day||[Homework 2]()|
 |2021-04-09|[Advanced Queries with SQL]()||
