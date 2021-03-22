@@ -58,8 +58,8 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-03-26|[Basic Queries with SQL]()||
 |2021-04-02|No Class, Children's Day|[Homework 2]()|
 |2021-04-09|[Advanced Queries with SQL]()||
-|2021-04-16|[Midterm]()|[Homework 3]()|
-|2021-04-23|[Getting Started with Python]()||
+|2021-04-16|[Getting Started with Python]()|[Homework 3]()|
+|2021-04-23|[Midterm]()||
 |2021-04-30|[Data Types and Structures in Python]()|[Homework 4]()|
 |2021-05-07|[Iterating Data with Python]()||
 |2021-05-14|[Being functional and object-oriented with Python]()||
