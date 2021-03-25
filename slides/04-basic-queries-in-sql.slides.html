@@ -17931,6 +17931,80 @@ BMI = \frac{weight_{kg}}{height^2_m}
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Combining-GROUP-BY-with-AVG">Combining <code>GROUP BY</code> with <code>AVG</code><a class="anchor-link" href="#Combining-GROUP-BY-with-AVG">&#182;</a></h2>
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[33]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-mysql"><pre><span></span><span class="k">SELECT</span> <span class="n">pos</span><span class="p">,</span>
+       <span class="nf">ROUND</span><span class="p">(</span><span class="k">AVG</span><span class="p">(</span><span class="n">heightMeters</span><span class="p">),</span> <span class="mi">2</span><span class="p">)</span> <span class="k">AS</span> <span class="n">avgHeightMeters</span>
+  <span class="k">FROM</span> <span class="n">players</span>
+ <span class="k">GROUP</span> <span class="k">BY</span> <span class="n">pos</span>
+ <span class="k">ORDER</span> <span class="k">BY</span> <span class="n">avgHeightMeters</span><span class="p">;</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[33]:</div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
+<table>
+<tr>
+<th>pos</th>
+<th>avgHeightMeters</th>
+</tr>
+<tr>
+<td>G</td>
+<td>1.91</td>
+</tr>
+<tr>
+<td>G-F</td>
+<td>1.98</td>
+</tr>
+<tr>
+<td>F-G</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>F</td>
+<td>2.02</td>
+</tr>
+<tr>
+<td>F-C</td>
+<td>2.08</td>
+</tr>
+<tr>
+<td>C-F</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>C</td>
+<td>2.12</td>
+</tr>
+</table>
+7 rows in set (0.00 sec)
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
