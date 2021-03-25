@@ -8,7 +8,7 @@
 - Semester: Spring, 2021
 - Instructor: Kuo, Yao-Jen <yaojenkuo@ntu.edu.tw>
 
-About me: <https://www.datainpoint.com/>
+About me: <https://www.datainpoint.com>
 
 ## Additional Registration Policy
 
@@ -39,7 +39,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |[Midterm]()|15%|
 |[Final]()|25%|
 |[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|
-|[Homework 2]()|10%|
+|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 3]()|10%|
 |[Homework 4]()|10%|
 |[Homework 5]()|10%|
@@ -56,7 +56,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-03-12|[Creating a Dashboard with Tableau](slides/02-creating-a-dashboard-with-tableau.slides.html)||
 |2021-03-19|[Getting Started in SQL](slides/03-getting-started-with-sql.slides.html)|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|
 |2021-03-26|[Basic Queries in SQL](slides/04-basic-queries-in-sql.slides.html)||
-|2021-04-02|No Class, Children's Day|[Homework 2]()|
+|2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Advanced Queries in SQL]()||
 |2021-04-16|[Getting Started with Python]()|[Homework 3]()|
 |2021-04-23|[Midterm]()||
