@@ -54,10 +54,10 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
 |2021-03-05|[Getting Started with Tableau](slides/01-getting-started-with-tableau.slides.html)||
 |2021-03-12|[Creating a Dashboard with Tableau](slides/02-creating-a-dashboard-with-tableau.slides.html)||
-|2021-03-19|[Getting Started with SQL](slides/03-getting-started-with-sql.slides.html)|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|
+|2021-03-19|[Getting Started in SQL](slides/03-getting-started-with-sql.slides.html)|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|
 |2021-03-26|[Basic Queries with SQL]()||
 |2021-04-02|No Class, Children's Day|[Homework 2]()|
-|2021-04-09|[Advanced Queries with SQL]()||
+|2021-04-09|[Advanced Queries in SQL]()||
 |2021-04-16|[Getting Started with Python]()|[Homework 3]()|
 |2021-04-23|[Midterm]()||
 |2021-04-30|[Data Types and Structures in Python]()|[Homework 4]()|
