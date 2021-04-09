@@ -34,13 +34,16 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Grading Policy
 
+- Late submission applies a 80% penalty on your score and it also applies to Midterm/Final.
+- If you did not submit your `.ipynb` to CEIBA in time, kindly send your `.ipynb` to our TA 增恩 <r08741051@ntu.edu.tw>.
+
 |Task|Percentage|
 |----|----------|
 |[Midterm]()|15%|
 |[Final]()|25%|
 |[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 3]()|10%|
+|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 4]()|10%|
 |[Homework 5]()|10%|
 |[Homework 6]()|10%|
@@ -58,7 +61,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-03-26|[Basic Queries in SQL](slides/04-basic-queries-in-sql.slides.html)||
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Advanced Queries in SQL](slides/05-advanced-queries-in-sql.slides.html)||
-|2021-04-16|[Getting Started with Python]()|[Homework 3]()|
+|2021-04-16|[Getting Started with Python]()|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm]()||
 |2021-04-30|[Data Types and Structures in Python]()||
 |2021-05-07|[Iterating Data with Python]()|[Homework 4]()|
