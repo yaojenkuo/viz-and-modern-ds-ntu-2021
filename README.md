@@ -10,6 +10,7 @@
 
 About me: <https://www.datainpoint.com>
 
+<!--
 ## Additional Registration Policy
 
 Due to resourse constraint and limited experience, we accept limited additional registrations and the priority would be:
@@ -20,33 +21,43 @@ Due to resourse constraint and limited experience, we accept limited additional 
 4. Others.
 
 We will probably rely on Python's `random` module to draw if there are too many additional registrations within higher priorities. Auditing is welcomed, however there will be no credits, homeworks, nor exams.
+-->
 
 ## Logistics
 
-- Contact me: <yaojenkuo@ntu.edu.tw>
+- Contact me: 耀仁 <yaojenkuo@ntu.edu.tw>
+- Contact TA: 增恩 <r08741051@ntu.edu.tw>
 - Schedule: Friday, 14:20-17:20
 - Location: 管一 405
 
+<!--
 ## Environments
 
 - Homeworks and exams will be distributed via [JupyterHub](https://jupyter.org/hub) and [nbgitpuller](https://github.com/jupyterhub/nbgitpuller).
 - Lectures will be delivered via non-persistent [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/).
+-->
 
 ## Grading Policy
 
-- Late submission applies a 80% penalty on your score and it also applies to Midterm/Final.
-- If you did not submit your `.ipynb` to CEIBA in time, kindly send your `.ipynb` to our TA 增恩 <r08741051@ntu.edu.tw>.
+- Submit your `.ipynb` to CEIBA <https://ceiba.ntu.edu.tw/index.php> in time to avoid penalty.
+- Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
 
 |Task|Percentage|
 |----|----------|
-|[Midterm]()|15%|
-|[Final]()|25%|
+|Midterm|15%|
+|Final|25%|
 |[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 4]()|10%|
-|[Homework 5]()|10%|
-|[Homework 6]()|10%|
+|Homework 4|10%|
+|Homework 5|10%|
+|Homework 6|10%|
+
+## Upcoming deadlines
+
+- 2021-04-16 20:59:59 Homework 3 submission.
+- 2021-04-23 16:59:59 Midterm A submission.
+- 2021-04-24 16:59:59 Midterm B submission.
 
 ## Calendar
 
@@ -62,15 +73,15 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Advanced Queries in SQL](slides/05-advanced-queries-in-sql.slides.html)||
 |2021-04-16|[Getting Started with Python](slides/06-getting-started-with-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-04-23|[Midterm]()||
-|2021-04-30|[Data Types and Structures in Python]()||
-|2021-05-07|[Iterating Data with Python]()|[Homework 4]()|
-|2021-05-14|[Being functional and object-oriented with Python]()||
-|2021-05-21|[Array Computing with NumPy]()|[Homework 5]()|
-|2021-05-28|[DataFrame Wrangling with Pandas]()||
-|2021-06-04|[Visualizing Data with Matplotlib]()||
-|2021-06-11|No Class, Reading period|[Homework 6]()|
-|2021-06-18|[Final]()||
+|2021-04-23|Midterm||
+|2021-04-30|Data Structures in Python||
+|2021-05-07|Iterating Data with Python|Homework 4|
+|2021-05-14|Being functional and object-oriented with Python||
+|2021-05-21|Array Computing with NumPy|Homework 5|
+|2021-05-28|DataFrame Wrangling with Pandas||
+|2021-06-04|Visualizing Data with Matplotlib||
+|2021-06-11|No Class, Reading period|Homework 6|
+|2021-06-18|Final||
 |2021-06-25|No Class||
 
 How to transform `slides.html` to PDF format?
