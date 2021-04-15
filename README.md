@@ -61,7 +61,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-03-26|[Basic Queries in SQL](slides/04-basic-queries-in-sql.slides.html)||
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Advanced Queries in SQL](slides/05-advanced-queries-in-sql.slides.html)||
-|2021-04-16|[Getting Started with Python]()|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-04-16|[Getting Started with Python](slides/06-getting-started-with-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm]()||
 |2021-04-30|[Data Types and Structures in Python]()||
 |2021-05-07|[Iterating Data with Python]()|[Homework 4]()|
