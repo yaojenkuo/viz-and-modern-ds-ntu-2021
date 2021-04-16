@@ -15488,12 +15488,12 @@ power(x, n)
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># A function to convert fahrenheit to celsius.</span>
-<span class="k">def</span> <span class="nf">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
+<span class="k">def</span> <span class="nf">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
     <span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="o">-</span> <span class="mi">32</span><span class="p">)</span> <span class="o">*</span> <span class="mi">5</span><span class="o">/</span><span class="mi">9</span>  <span class="c1"># The formula to convert fahrenheit to celsius.</span>
     <span class="k">return</span> <span class="n">c</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="n">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">32</span><span class="p">))</span>   <span class="c1"># Call the function by name after defining it.</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">212</span><span class="p">))</span>  <span class="c1"># Call the function by name after defining it.</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">32</span><span class="p">))</span>   <span class="c1"># Call the function by name after defining it.</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">212</span><span class="p">))</span>  <span class="c1"># Call the function by name after defining it.</span>
 </pre></div>
 
      </div>
@@ -15557,7 +15557,7 @@ power(x, n)
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[16]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
     <span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="o">-</span> <span class="mi">32</span><span class="p">)</span> <span class="o">*</span> <span class="mi">5</span><span class="o">/</span><span class="mi">9</span>  <span class="c1"># The formula to convert fahrenheit to celsius.</span>
     <span class="k">return</span> <span class="n">c</span>
 
@@ -15609,12 +15609,12 @@ power(x, n)
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">c</span> <span class="o">=</span> <span class="mi">0</span>
-<span class="k">def</span> <span class="nf">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
+<span class="k">def</span> <span class="nf">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="n">f</span><span class="p">):</span>
     <span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="n">f</span> <span class="o">-</span> <span class="mi">32</span><span class="p">)</span> <span class="o">*</span> <span class="mi">5</span><span class="o">/</span><span class="mi">9</span>  <span class="c1"># The formula to convert fahrenheit to celsius.</span>
     <span class="k">return</span> <span class="n">c</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>  <span class="c1"># global c is 0</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">convect_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">212</span><span class="p">))</span>  <span class="c1"># local c is 100.0</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">convert_fahrenheit_to_celsius</span><span class="p">(</span><span class="mi">212</span><span class="p">))</span>  <span class="c1"># local c is 100.0</span>
 </pre></div>
 
      </div>
@@ -15644,7 +15644,7 @@ power(x, n)
 
 </div>
 
-</div>
+</div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Although-global-variable-looks-quite-convenient,-it-is-HIGHLY-recommended-NOT-to-use-global-variable-locally,-say-inside-the-indented-block">Although global variable looks quite convenient, it is HIGHLY recommended NOT to use global variable locally, say inside the indented block<a class="anchor-link" href="#Although-global-variable-looks-quite-convenient,-it-is-HIGHLY-recommended-NOT-to-use-global-variable-locally,-say-inside-the-indented-block">&#182;</a></h2>
