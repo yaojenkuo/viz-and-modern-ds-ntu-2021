@@ -58,7 +58,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 <!--
 - 2021-04-16 20:59:59 Homework 3 submission.
 -->
-- 2021-04-23 13:29:29 - 16:59:59 [Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
+- 2021-04-23 13:29:29 - 17:59:59 [Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
 
 ## Calendar
 
