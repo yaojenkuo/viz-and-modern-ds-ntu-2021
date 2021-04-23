@@ -44,7 +44,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 |Task|Percentage|
 |----|----------|
-|Midterm|15%|
+|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|15%|
 |Final|25%|
 |[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
@@ -58,7 +58,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 <!--
 - 2021-04-16 20:59:59 Homework 3 submission.
 -->
-- 2021-04-23 13:29:29 - 16:59:59 Midterm.
+- 2021-04-23 13:29:29 - 16:59:59 [Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
 
 ## Calendar
 
@@ -74,7 +74,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Advanced Queries in SQL](slides/05-advanced-queries-in-sql.slides.html)||
 |2021-04-16|[Getting Started with Python](slides/06-getting-started-with-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-04-23|Midterm||
+|2021-04-23|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
 |2021-04-30|Data Structures in Python||
 |2021-05-07|Iterating Data with Python|Homework 4|
 |2021-05-14|Being functional and object-oriented with Python||
