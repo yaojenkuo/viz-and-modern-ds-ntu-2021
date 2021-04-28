@@ -41,6 +41,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 - Submit your `.ipynb` to CEIBA <https://ceiba.ntu.edu.tw/index.php> in time to avoid penalty.
 - Late submission applies a penalty discount according to the table below.
+    - Attach your late submission file and send to TA 增恩 <r08741051@ntu.edu.tw>, cc 耀仁 <yaojenkuo@ntu.edu.tw>.
+    - All late submissions MUST be sent before the end of semester: **2021-06-25 23:59:59**.
 
 |Task|Percentage|Penalty|
 |----|----------|-------|
@@ -58,6 +60,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-05-07 20:59:59 Homework 4 submission.
 - 2021-05-21 20:59:59 Homework 5 submission.
 - 2021-06-11 20:59:59 Homework 6 submission.
+- 2021-06-18 13:59:59 - 19:59:59 Final.
+- 2021-06-25 23:59:59 End of semester.
 
 ## Calendar
 
