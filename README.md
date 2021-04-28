@@ -40,25 +40,24 @@ We will probably rely on Python's `random` module to draw if there are too many 
 ## Grading Policy
 
 - Submit your `.ipynb` to CEIBA <https://ceiba.ntu.edu.tw/index.php> in time to avoid penalty.
-- Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
+- Late submission applies a penalty discount according to the table below.
 
-|Task|Percentage|
-|----|----------|
-|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|15%|
-|Final|25%|
-|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|
-|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|Homework 4|10%|
-|Homework 5|10%|
-|Homework 6|10%|
+|Task|Percentage|Penalty|
+|----|----------|-------|
+|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|15%|0.8|
+|Final|25%|0.6|
+|[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)|10%|0.8|
+|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|0.8|
+|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|0.8|
+|Homework 4|10%|0.6|
+|Homework 5|10%|0.6|
+|Homework 6|10%|0.6|
 
 ## Upcoming deadlines
 
-<!--
-- 2021-04-16 20:59:59 Homework 3 submission.
--->
-- 2021-04-23 13:29:29 - 17:59:59 [Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
+- 2021-05-07 20:59:59 Homework 4 submission.
+- 2021-05-21 20:59:59 Homework 5 submission.
+- 2021-06-11 20:59:59 Homework 6 submission.
 
 ## Calendar
 
@@ -75,9 +74,9 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-04-09|[Advanced Queries in SQL](slides/05-advanced-queries-in-sql.slides.html)||
 |2021-04-16|[Getting Started with Python](slides/06-getting-started-with-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
-|2021-04-30|Data Structures in Python||
-|2021-05-07|Iterating Data with Python|Homework 4|
-|2021-05-14|Being functional and object-oriented with Python||
+|2021-04-30|[Data Structures in Python](slides/07-data-structures-in-python.slides.html)||
+|2021-05-07|Flow of Control in Python|Homework 4|
+|2021-05-14|Being Functional and Object-Oriented with Python||
 |2021-05-21|Array Computing with NumPy|Homework 5|
 |2021-05-28|DataFrame Wrangling with Pandas||
 |2021-06-04|Visualizing Data with Matplotlib||
