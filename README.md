@@ -79,7 +79,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-04-16|[Getting Started with Python](slides/06-getting-started-with-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
 |2021-04-30|[Data Structures in Python](slides/07-data-structures-in-python.slides.html)||
-|2021-05-07|Flow of Control in Python|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw4-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-05-07|[Flow of Control in Python](slides/08-flow-of-control-in-python.slides.html)|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw4-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-14|Being Functional and Object-Oriented with Python||
 |2021-05-21|Array Computing with NumPy|Homework 5|
 |2021-05-28|DataFrame Wrangling with Pandas||
