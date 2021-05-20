@@ -81,7 +81,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-04-30|[Data Structures in Python](slides/07-data-structures-in-python.slides.html)||
 |2021-05-07|[Flow of Control in Python](slides/08-flow-of-control-in-python.slides.html)|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw4-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-14|[Being Functional and Object-Oriented with Python](slides/09-being-functional-and-object-oriented-with-python.slides.html)||
-|2021-05-21|Array Computing with NumPy|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw5-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-05-21|[Array Computing with NumPy](slides/10-array-computing-with-numpy.slides.html)|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw5-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-28|DataFrame Wrangling with Pandas||
 |2021-06-04|DataFrame Wrangling with Pandas||
 |2021-06-11|No Class, Reading period|Homework 6|
