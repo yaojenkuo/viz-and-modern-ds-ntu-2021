@@ -83,7 +83,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-05-14|[Being Functional and Object-Oriented with Python](slides/09-being-functional-and-object-oriented-with-python.slides.html)||
 |2021-05-21|[Array Computing with NumPy](slides/10-array-computing-with-numpy.slides.html)|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw5-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-28|[DataFrame Wrangling with Pandas](slides/11-dataframe-wrangling-with-pandas.slides.html)||
-|2021-06-04|DataFrame Wrangling with Pandas||
+|2021-06-04|[DataFrame Wrangling with Pandas](slides/11-dataframe-wrangling-with-pandas.slides.html)||
 |2021-06-11|No Class, Reading period|[Homework 6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw6-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw6-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-06-18|Final||
 |2021-06-25|No Class||
