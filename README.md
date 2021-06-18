@@ -47,7 +47,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Task||Percentage|Penalty|
 |----|-|----------|-------|
 |[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fmidterm-a-viz-and-modern-ds-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||15%|0.8|
-|[Final(link to JupyterHub)](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Ffinal-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Ffinal-viz-and-modern-ds-ntu-spring-2021%2Ffinal.ipynb&branch=main)|[Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD?filepath=final.ipynb)|25%|0.6|
+|[Final(link to JupyterHub)](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Ffinal-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Ffinal-viz-and-modern-ds-ntu-spring-2021%2Ffinal.ipynb&branch=main)|[Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD)|25%|0.6|
 |[Homework 1](https://yaojenkuo.io/viz-and-modern-ds-ntu-2021/slides/02-creating-a-dashboard-with-tableau.slides.html#/3/15)||10%|0.8|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw2-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
 |[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw3-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
@@ -62,7 +62,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-06-11 20:59:59 [Homework 6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw6-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw6-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
 - 2021-06-18 09:00:00 - 20:59:59.
     - [Final(link to JupyterHub)](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Ffinal-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Ffinal-viz-and-modern-ds-ntu-spring-2021%2Ffinal.ipynb&branch=main)
-    - [Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD?filepath=final.ipynb)
+    - [Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD)
 - 2021-06-25 23:59:59 End of semester.
 
 ## Calendar
@@ -87,7 +87,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuXIIfCpQoUw
 |2021-05-28|[DataFrame Wrangling with Pandas](slides/11-dataframe-wrangling-with-pandas.slides.html)||
 |2021-06-04|[DataFrame Wrangling with Pandas](slides/11-dataframe-wrangling-with-pandas.slides.html)||
 |2021-06-11|No Class, Reading period|[Homework 6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw6-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Fhw6-viz-and-modern-ds-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-06-18|[Final(link to JupyterHub)](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Ffinal-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Ffinal-viz-and-modern-ds-ntu-spring-2021%2Ffinal.ipynb&branch=main)|[Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD?filepath=final.ipynb)|
+|2021-06-18|[Final(link to JupyterHub)](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Ffinal-viz-and-modern-ds-ntu-spring-2021&urlpath=tree%2Ffinal-viz-and-modern-ds-ntu-spring-2021%2Ffinal.ipynb&branch=main)|[Final(link to non-persistent BinderHub)](https://mybinder.org/v2/gh/datainpoint/final-viz-and-modern-ds-ntu-spring-2021/HEAD)|
 |2021-06-25|No Class||
 
 How to transform `slides.html` to PDF format?
